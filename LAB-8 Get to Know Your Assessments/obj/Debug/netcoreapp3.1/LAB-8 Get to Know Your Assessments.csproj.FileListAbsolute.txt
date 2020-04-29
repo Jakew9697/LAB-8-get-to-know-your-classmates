@@ -1,0 +1,13 @@
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\bin\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.exe
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\bin\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.deps.json
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\bin\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.runtimeconfig.json
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\bin\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.runtimeconfig.dev.json
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\bin\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.dll
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\bin\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.pdb
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\obj\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.csprojAssemblyReference.cache
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\obj\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.csproj.CoreCompileInputs.cache
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\obj\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.AssemblyInfoInputs.cache
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\obj\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.AssemblyInfo.cs
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\obj\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.dll
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\obj\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.pdb
+C:\Users\jwors\source\repos\LAB-8 Get to Know Your Assessments\LAB-8 Get to Know Your Assessments\obj\Debug\netcoreapp3.1\LAB-8 Get to Know Your Assessments.genruntimeconfig.cache
