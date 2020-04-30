@@ -59,7 +59,7 @@ namespace LAB_8_Get_to_Know_Your_Assessments
 
                         if (studentDirectory[i].ToLower() == input)
                         {
-                            Console.WriteLine(birthTown[i], studentDirectory[i]);
+                            Console.WriteLine(); //0$"{birthTown[i]} {studentDirectory[i]}");
                         }
 
                     }
@@ -76,7 +76,7 @@ namespace LAB_8_Get_to_Know_Your_Assessments
                     
                     if (studentDirectory[i].ToLower() == input)
                     {
-                        Console.WriteLine(birthTown[i], studentDirectory[i]);
+                        Console.WriteLine($"Name: {studentDirectory[i]} Hometown: {birthTown[i]} Favorite Food: {favoriteFood[i]}");
                     }                   
                 }
 
